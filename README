@@ -1,0 +1,4 @@
+iCENTER
+
+A program that will SSH into a special device and apply Game Center.app and also fix the rights of these files.
+This program requires OpenSSH because of connecting via SSH. (optional: AutomaticSSH)
