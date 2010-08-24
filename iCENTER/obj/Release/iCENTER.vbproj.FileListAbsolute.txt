@@ -1,0 +1,20 @@
+C:\Users\Thim\Desktop\iCENTER.exe
+C:\Users\Thim\Desktop\iCENTER.pdb
+C:\Users\Thim\Desktop\iCENTER.xml
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Release\iCENTER.Form1.resources
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Release\iCENTER.Resources.resources
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Release\iCENTER.vbproj.GenerateResource.Cache
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Release\iCENTER.exe
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Release\iCENTER.xml
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Release\iCENTER.pdb
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\iCENTER\obj\Release\iCENTER.exe
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\iCENTER\obj\Release\iCENTER.xml
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\iCENTER\obj\Release\iCENTER.pdb
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\bin\iCENTER.exe
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\bin\iCENTER.pdb
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\bin\iCENTER.xml
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\iCENTER\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\iCENTER\obj\Release\iCENTER.Form1.resources
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\iCENTER\obj\Release\iCENTER.Resources.resources
+C:\Users\Thim\Desktop\iPhone_dev\iCENTER\iCENTER\obj\Release\iCENTER.vbproj.GenerateResource.Cache

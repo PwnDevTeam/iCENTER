@@ -1,0 +1,10 @@
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\bin\Debug\iCENTER.exe
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\bin\Debug\iCENTER.pdb
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\bin\Debug\iCENTER.xml
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Debug\iCENTER.Form1.resources
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Debug\iCENTER.Resources.resources
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Debug\iCENTER.vbproj.GenerateResource.Cache
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Debug\iCENTER.exe
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Debug\iCENTER.xml
+C:\Users\Thim\AppData\Local\Temporary Projects\iCENTER\obj\Debug\iCENTER.pdb
