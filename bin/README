@@ -1,0 +1,18 @@
+Since GameCenter is copyrighted Apple code, and therefore, by 
+distributing it, i am breaking the law.
+
+So what you have to do is:
+
+Somewhere on the internet you have to download the Game Center.app 
+folder with all its stuff inside. Once you have it you're going to ZIP 
+it.
+
+Just zip the "Game Center.app" folder and name the zip "Game_Center.zip"
+
+
+Example how it would look like if you explore the zip:
+
+(GOOD WAY): Game_Center.zip/Game Center.app
+
+(BAD WAY): Game_Center.zip/Game_Center/Game Center.app
+
